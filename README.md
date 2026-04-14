@@ -3,7 +3,7 @@
 A clean, responsive personal portfolio built with HTML and CSS to showcase projects, skills, and contact details.
 
 ## Demo
-- Live demo: (add your GitHub Pages or live URL here)
+- Live demo: https://awexa-web.github.io/NCC-web-dev-task2/
 
 ## Features
 - Responsive layout (mobile-first)
