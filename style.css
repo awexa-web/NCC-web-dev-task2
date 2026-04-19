@@ -92,7 +92,7 @@ thead{
 }
 tbody{
   background: var(--bg-gradient);
-  table-layout: fixed;
+  table-layout: auto;
 }
 th,td{
   padding: 8px;
