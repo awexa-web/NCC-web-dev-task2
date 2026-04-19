@@ -96,7 +96,7 @@ tbody{
 }
 th,td{
   padding: 8px;
-  white-space: nowrap; 
+  white-space: normal; 
   text-align: left;
 }
 iframe {
