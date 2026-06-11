@@ -24,7 +24,7 @@ A clean, responsive personal portfolio built with HTML and CSS to showcase proje
 To view locally:
 1. Clone the repo:
    ```
-   git clone https://github.com/awexa-web/NCC-web-dev-task2.git
+   git clone https://github.com/awexa-web/NMy-first-NCC-Bootcamp-CSS-project.git
    ```
 2. Open `index.html` in your browser, or serve with a simple HTTP server:
    ```
@@ -38,20 +38,13 @@ Example structure — update if your repo differs:
 ```
 /
 ├─ index.html
-├─ about.html
-├─ projects.html
-├─ contact.html
-├─ css/
-│  └─ styles.css
+├─styles.css
 ├─ assets/
-│  ├─ images/
-│  └─ icons/
 └─ README.md
 ```
 
 ## How to customize
 - Replace headings and copy in the HTML files with your name, bio, and project descriptions.
-- Update project cards: change thumbnails in `assets/images/` and project links.
 - Theme colors: change CSS variables at the top of `css/styles.css` (e.g., --primary, --accent).
 - Fonts: include Google Fonts or local fonts in the `<head>` of your HTML.
 - Add meta tags for SEO and social previews (Open Graph / Twitter Cards) in `index.html`.
@@ -80,7 +73,7 @@ Contributions are welcome. To propose changes:
 This project is open source — add a license file (e.g., MIT) if you want to allow reuse.
 
 ## Contact
-- Name: Your Name
-- Email: your.email@example.com
-- GitHub: https://github.com/your-username
-- LinkedIn / Twitter: (add links)
+- Name: Awel Abduljelil
+- Email: awela1499@gmail.com
+- GitHub: [Click me ](https://github.com/awexa-web)
+- LinkedIn : [Click me](https://www.linkedin.com/in/awel-abduljelil/)
